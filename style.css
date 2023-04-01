@@ -77,6 +77,16 @@ html::-webkit-scrollbar-thumb
     color: var(--black);
     cursor: pointer;
 }
+.header .search{
+    display: none;
+    top: 100%;
+    margin: 1.5rem 7%;
+    background-color: transparent;
+    width: 50%;
+    right: 0;
+    height: 5rem;
+    position:  absolute;
 
+}
 
 
