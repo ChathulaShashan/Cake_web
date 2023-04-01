@@ -61,5 +61,10 @@ html::-webkit-scrollbar-thumb
     font-size: 3rem;
     font-weight: bolder;
 }
-
+.header .navbar a{
+    font-size: 2rem;
+    margin-right: 4rem;
+    color: var(--black);
+    font-weight: bold;
+}
 
