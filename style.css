@@ -109,3 +109,11 @@ html::-webkit-scrollbar-thumb
 }
 
 
+.home {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/back.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
