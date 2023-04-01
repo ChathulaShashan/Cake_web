@@ -53,3 +53,13 @@ html::-webkit-scrollbar-thumb
     display: flex;
     align-items: center;
 }
+.header .logoContent .logo img{
+    height: 6rem;
+}
+.header .logoContent .logoName {
+    color:black ;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+
