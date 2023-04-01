@@ -67,4 +67,16 @@ html::-webkit-scrollbar-thumb
     color: var(--black);
     font-weight: bold;
 }
+.header .navbar a:hover{
+    border-bottom: .1rem solid var(--black);
+    padding-bottom: .4rem;
+}
+.header .icon i{            /*serch and menu icon*/
+    font-size: 2rem;
+    margin-right: 2rem;
+    color: var(--black);
+    cursor: pointer;
+}
+
+
 
