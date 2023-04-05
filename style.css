@@ -172,7 +172,8 @@ section{
 .product .product-row .box{
     display: flex;
     flex-direction: column;
-    width: 50rem;
+    width: 30rem;
+    height: auto;
     background-color: var(--white);
     align-items: center;
     text-align: center;
