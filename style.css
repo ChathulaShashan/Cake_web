@@ -84,7 +84,7 @@ html::-webkit-scrollbar-thumb
     top: 100%;
     margin: 1.5rem 7%;
     background-color: transparent;
-    width: 50%;
+    width: 40%;
     right: 0;
     height: 5rem;
     position:  absolute;
@@ -185,8 +185,8 @@ section{
     margin-right: 3rem;
 }
 .product .product-row .img img{
-    height: 50%;
-    width: 50%;
+    height: 80%;
+    width: 80%;
 }
 .product .product-row .img img:hover{
     transform: scale(1.1);
