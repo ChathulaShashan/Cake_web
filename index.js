@@ -36,7 +36,6 @@ var swiper = new Swiper(".product-row", {
     },
   });
 
-
   var swiper = new Swiper(".blogs-row", {
     spaceBetween: 30,
     loop:true,
